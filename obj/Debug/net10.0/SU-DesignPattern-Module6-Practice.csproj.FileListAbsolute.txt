@@ -1,0 +1,14 @@
+D:\SU-DesignPattern-Module6-Practice\bin\Debug\net10.0\SU-DesignPattern-Module6-Practice.exe
+D:\SU-DesignPattern-Module6-Practice\bin\Debug\net10.0\SU-DesignPattern-Module6-Practice.deps.json
+D:\SU-DesignPattern-Module6-Practice\bin\Debug\net10.0\SU-DesignPattern-Module6-Practice.runtimeconfig.json
+D:\SU-DesignPattern-Module6-Practice\bin\Debug\net10.0\SU-DesignPattern-Module6-Practice.dll
+D:\SU-DesignPattern-Module6-Practice\bin\Debug\net10.0\SU-DesignPattern-Module6-Practice.pdb
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.AssemblyInfoInputs.cache
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.AssemblyInfo.cs
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.csproj.CoreCompileInputs.cache
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.dll
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\refint\SU-DesignPattern-Module6-Practice.dll
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.pdb
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\SU-DesignPattern-Module6-Practice.genruntimeconfig.cache
+D:\SU-DesignPattern-Module6-Practice\obj\Debug\net10.0\ref\SU-DesignPattern-Module6-Practice.dll
